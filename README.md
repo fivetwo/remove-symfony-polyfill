@@ -6,9 +6,9 @@ To use add ``fivetwo/remove-symfony-polyfill`` to the ``requires`` or ``require-
 ```json
 {
     "requires": {
-        "php": "~7.2.0",
+        "php": "~7.3.0",
         "vendor/library-requiring-symfony-polyfill": "*",
-        "fivetwo/remove-symfony-polyfill": "~7.2.0"
+        "fivetwo/remove-symfony-polyfill": "~7.3.0"
     }
 }
 ```
