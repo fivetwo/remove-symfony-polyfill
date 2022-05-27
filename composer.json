@@ -11,13 +11,14 @@
         }
     ],
     "required": {
-	"php": ">=7.3"
+	"php": ">=7.4"
     },
     "replace": {
         "symfony/polyfill-apcu": "*",
         "symfony/polyfill-ctype": "*",
         "symfony/polyfill-php72": "*",
         "symfony/polyfill-php73": "*",
+        "symfony/polyfill-php74": "*",
         "symfony/polyfill-iconv": "*",
         "symfony/polyfill-intl-grapheme": "*",
         "symfony/polyfill-intl-icu": "*",
