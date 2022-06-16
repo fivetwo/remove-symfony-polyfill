@@ -1,8 +1,15 @@
 {
     "name": "fivetwo/remove-symfony-polyfill",
-    "type": "library",
     "description": "Remove Symfony polyfills",
-    "keywords": ["remove","symfony","polyfill"],
+    "type": "library",
+    "keywords": [
+        "remove",
+        "replace",
+        "symfony",
+        "polyfill"
+    ],
+    "homepage": "https://github.com/fivetwo/remove-symfony-polyfill",
+    "readme": "README.md",
     "license": "MIT",
     "authors": [
         {
@@ -10,8 +17,8 @@
             "email": "matt@fivetwo.org"
         }
     ],
-    "required": {
-	"php": ">=7.4"
+    "require": {
+        "php": ">=7.4"
     },
     "replace": {
         "symfony/polyfill-apcu": "*",
@@ -31,4 +38,3 @@
         "symfony/polyfill-xml": "*"
     }
 }
-
