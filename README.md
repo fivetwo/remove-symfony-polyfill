@@ -6,7 +6,7 @@ To install, add `fivetwo/remove-symfony-polyfill` to the `require` or `require-d
 ```json
 {
     "require": {
-        "fivetwo/remove-symfony-polyfill": "~8.1.0"
+        "fivetwo/remove-symfony-polyfill": "~8.2.0"
     }
 }
 ```
