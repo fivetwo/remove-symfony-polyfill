@@ -33,7 +33,6 @@
         "symfony/polyfill-php82": "*",
         "symfony/polyfill-php83": "*",
         "symfony/polyfill-php84": "*",
-        "symfony/polyfill-php*": "*",
         "symfony/polyfill-iconv": "*",
         "symfony/polyfill-intl-grapheme": "*",
         "symfony/polyfill-intl-icu": "*",
